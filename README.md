@@ -10,6 +10,7 @@ En el siguiente informe se detalla el desarrollo del trabajo práctico Conjunto
 Dominante Mínimo de programación 3. El trabajo consta de la implementación
 de un algoritmo goloso para el problema junto a una interfaz en la cual se
 permita ingresar un grafo sobre el cual se busque el conjunto.
+
 ● En este caso decidí implementar el patrón de diseño “Forms and
 controls”.
 
